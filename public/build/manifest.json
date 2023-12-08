@@ -1,0 +1,112 @@
+{
+  "resources/img/sitelogo_login.png": {
+    "file": "assets/sitelogo_login-127f5ba7.png",
+    "src": "resources/img/sitelogo_login.png"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-79d08806.eot",
+    "src": "resources/plugins/fontawesome/webfonts/fa-regular-400.eot"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-373c04fd.eot",
+    "src": "resources/plugins/fontawesome/webfonts/fa-solid-900.eot"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-e4299464.eot",
+    "src": "resources/plugins/fontawesome/webfonts/fa-brands-400.eot"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-e42a8844.woff2",
+    "src": "resources/plugins/fontawesome/webfonts/fa-regular-400.woff2"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-8ea87917.woff2",
+    "src": "resources/plugins/fontawesome/webfonts/fa-brands-400.woff2"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-9834b82a.woff2",
+    "src": "resources/plugins/fontawesome/webfonts/fa-solid-900.woff2"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-cb9e9e69.woff",
+    "src": "resources/plugins/fontawesome/webfonts/fa-regular-400.woff"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-f9217f66.woff",
+    "src": "resources/plugins/fontawesome/webfonts/fa-brands-400.woff"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-3f6d3488.woff",
+    "src": "resources/plugins/fontawesome/webfonts/fa-solid-900.woff"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-e8711bbb.ttf",
+    "src": "resources/plugins/fontawesome/webfonts/fa-regular-400.ttf"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-cda59d6e.ttf",
+    "src": "resources/plugins/fontawesome/webfonts/fa-brands-400.ttf"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-af639750.ttf",
+    "src": "resources/plugins/fontawesome/webfonts/fa-solid-900.ttf"
+  },
+  "resources/fonts/ms-pgothic.ttf": {
+    "file": "assets/ms-pgothic-ce7c51dd.ttf",
+    "src": "resources/fonts/ms-pgothic.ttf"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-be0a0849.svg",
+    "src": "resources/plugins/fontawesome/webfonts/fa-regular-400.svg"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-a3b98177.svg",
+    "src": "resources/plugins/fontawesome/webfonts/fa-brands-400.svg"
+  },
+  "resources/plugins/fontawesome/webfonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-9674eb1b.svg",
+    "src": "resources/plugins/fontawesome/webfonts/fa-solid-900.svg"
+  },
+  "resources/fonts/Hiragino Kaku Gothic Pro W3.otf": {
+    "file": "assets/Hiragino Kaku Gothic Pro W3-0a3595c8.otf",
+    "src": "resources/fonts/Hiragino Kaku Gothic Pro W3.otf"
+  },
+  "resources/fonts/meiryo.ttc": {
+    "file": "assets/meiryo-adc44805.ttc",
+    "src": "resources/fonts/meiryo.ttc"
+  },
+  "resources/fonts/meiryo-b.ttc": {
+    "file": "assets/meiryo-b-30e97d1b.ttc",
+    "src": "resources/fonts/meiryo-b.ttc"
+  },
+  "resources/scss/style.scss": {
+    "file": "assets/style-6dbe267d.css",
+    "src": "resources/scss/style.scss",
+    "isEntry": true
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-30923a86.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/plugins/fontawesome/css/all.min.css": {
+    "file": "assets/all.min-eaf2aa0b.css",
+    "src": "resources/plugins/fontawesome/css/all.min.css",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-82202431.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-30923a86.css"
+    ],
+    "assets": [
+      "assets/sitelogo_login-127f5ba7.png"
+    ]
+  }
+}
